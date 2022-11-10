@@ -9,12 +9,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KietHo1&theme=vue)
 
-<div style="display:flex;">
-  <div>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KietHo1&theme=default)</div>
-  <div>![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KietHo&theme=default)</div>
-</div>
-
-<div style="display:flex;">
-  <div>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KietHo1&theme=default)</div>
-  <div>![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KietHo1&theme=default&utcOffset=8)</div>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KietHo1&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KietHo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KietHo1&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KietHo1&theme=default&utcOffset=8)
