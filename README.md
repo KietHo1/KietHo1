@@ -2,9 +2,6 @@
 - 👀 I’m studying in University of Food Industry in Ho Chi Minh City
 - 🌱 I’m currently learning computer network major
 - I'm trying my hand at web programming! Welcome everyone to my github!
-<div>
-  
-</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KietHo1)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,10 +9,12 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KietHo1&theme=vue)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KietHo1&theme=default)
+<div style="display:flex;">
+  <div>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KietHo1&theme=default)</div>
+  <div>![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KietHo&theme=default)</div>
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KietHo&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KietHo1&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KietHo1&theme=default&utcOffset=8)
+<div style="display:flex;">
+  <div>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KietHo1&theme=default)</div>
+  <div>![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KietHo1&theme=default&utcOffset=8)</div>
+</div>
