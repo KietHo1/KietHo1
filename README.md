@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning computer network major
 - I'm trying my hand at web programming! Welcome everyone to my github!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KietHo1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxschmitt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KietHo1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mxschmitt&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KietHo1&theme=vue)
 
