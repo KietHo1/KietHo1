@@ -2,7 +2,11 @@
 - 👀 I’m studying in University of Food Industry in Ho Chi Minh City
 - 🌱 I’m currently learning computer network major
 - I'm trying my hand at web programming! Welcome everyone to my github!
-![alt](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+ <img alt="anh nen github" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KietHo1&show_icons=true&theme=radical)
 
