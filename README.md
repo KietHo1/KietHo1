@@ -2,7 +2,7 @@
 - 👀 I’m studying in University of Food Industry in Ho Chi Minh City
 - 🌱 I’m currently learning computer network major
 - I'm trying my hand at web programming! Welcome everyone to my github!
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![alt](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KietHo1&show_icons=true&theme=radical)
 
