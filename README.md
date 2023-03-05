@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KietHo1
-- I'm trying my hand at web programming! Welcome everyone to my github!
+<h4>Hi, I’m @KietHo1</h4>
+<h4>I'm trying my hand at web programming! Welcome everyone to my github!</h4>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
