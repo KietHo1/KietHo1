@@ -5,6 +5,7 @@
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  <img alt="anh nen github" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </picture>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=KietHo1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KietHo1&theme=vue)
