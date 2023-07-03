@@ -4,6 +4,7 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  <img alt="anh nen github" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+ <img alt="anh nen github" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
 </picture>
 
 
