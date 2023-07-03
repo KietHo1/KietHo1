@@ -4,7 +4,7 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  <img alt="anh nen github" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
- <img alt="anh nen github" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
+ <img alt="anh nen github" src="https://external-preview.redd.it/-g-YcKJE04AZCEfpE7KpXFzadxTJAQKnh3xGLuvhpcU.gif?format=mp4&v=enabled&s=09cc0c7e93752c18af0f02d4429eb040804378c2">
 </picture>
 
 
